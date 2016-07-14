@@ -1,5 +1,5 @@
 # tw-colortable-sh
-_a script to generate a lolor lookup-table based on task color legend_
+_a script to generate a color lookup-table based on *task color legend* command_
 
 For some taskwarrior.org related scripts, I'd like to use colors from the current task theme. This (imaginary) script is designed to generate a table of ansi color-codes from the task color legend command.
 
