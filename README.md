@@ -7,3 +7,4 @@ STATUS: imaginary
 
 TODO:
 - determine optimal format for table (csv?)
+- figure out how to parse the output of 'task color legend'
